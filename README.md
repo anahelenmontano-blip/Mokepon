@@ -1,4 +1,4 @@
-# Mokepon
+# mokepon
 Juego desarrollado con HTML, CSS y JavaScript
 
 ## detalle
